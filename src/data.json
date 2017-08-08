@@ -1,0 +1,171 @@
+[{
+    "name": "比特币",
+    "code": "BTC",
+    "history": []
+  },
+  {
+    "name": "莱特币",
+    "code": "LTC",
+    "history": []
+  },
+  {
+    "name": "狗狗币",
+    "code": "DOGE",
+    "history": []
+  },
+  {
+    "name": "以太币",
+    "code": "ETH",
+    "history": []
+  },
+  {
+    "name": "以太经典",
+    "code": "ETC",
+    "history": []
+  },
+  {
+    "name": "瑞波币",
+    "code": "XRP",
+    "history": []
+  },
+  {
+    "name": "比特股",
+    "code": "BTS",
+    "history": []
+  },
+  {
+    "name": "恒星币",
+    "code": "XLM",
+    "history": []
+  },
+  {
+    "name": "未来币",
+    "code": "NXT",
+    "history": []
+  },
+  {
+    "name": "阿朵",
+    "code": "ARDR",
+    "history": []
+  },
+  {
+    "name": "黑币",
+    "code": "BLK",
+    "history": []
+  },
+  {
+    "name": "新经币",
+    "code": "XEM",
+    "history": []
+  },
+  {
+    "name": "崛起币",
+    "code": "EMC",
+    "history": []
+  },
+  {
+    "name": "达世币",
+    "code": "DASH",
+    "history": []
+  },
+  {
+    "name": "讯链币",
+    "code": "INF",
+    "history": []
+  },
+  {
+    "name": "零币",
+    "code": "XZC",
+    "history": []
+  },
+  {
+    "name": "系统币",
+    "code": "SYS",
+    "history": []
+  },
+  {
+    "name": "微币",
+    "code": "VASH",
+    "history": []
+  },
+  {
+    "name": "小企股",
+    "code": "ICS",
+    "history": []
+  },
+  {
+    "name": "地球币",
+    "code": "EAC",
+    "history": []
+  },
+  {
+    "name": "氪石币",
+    "code": "XCN",
+    "history": []
+  },
+  {
+    "name": "点点币",
+    "code": "PPC",
+    "history": []
+  },
+  {
+    "name": "众合币",
+    "code": "MGC",
+    "history": []
+  },
+  {
+    "name": "活力币",
+    "code": "HLB",
+    "history": []
+  },
+  {
+    "name": "招财币",
+    "code": "ZCC",
+    "history": []
+  },
+  {
+    "name": "质数币",
+    "code": "XPM",
+    "history": []
+  },
+  {
+    "name": "资产股",
+    "code": "NCS",
+    "history": []
+  },
+  {
+    "name": "元宝币",
+    "code": "YBC",
+    "history": []
+  },
+  {
+    "name": "美卡币",
+    "code": "MEC",
+    "history": []
+  },
+  {
+    "name": "世界币",
+    "code": "WDC",
+    "history": []
+  },
+  {
+    "name": "夸克币",
+    "code": "QRK",
+    "history": []
+  },
+  {
+    "name": "黎曼币",
+    "code": "RIC",
+    "history": []
+  },
+  {
+    "name": "悬赏币",
+    "code": "TAG",
+    "history": []
+  },
+  {
+    "name": "时代币",
+    "code": "TMC",
+    "history": []
+  }
+]
