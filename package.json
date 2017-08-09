@@ -12,6 +12,7 @@
   "devDependencies": {},
   "scripts": {
     "dev": "nodemon -L --harmony src/index.js",
+    "launch": "pm2 start src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

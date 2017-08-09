@@ -10,7 +10,7 @@ router.get('/day', async ctx => {
 .get('/week', async ctx => {
   let all = await getCoinList()
   ctx.body = {
-    list: all.sort((a, b) => b.change7d - a.change7d)
+    list: all.list.sort((a, b) => b.change7d - a.change7d)
   }
 })
 .get('/', async ctx => {
